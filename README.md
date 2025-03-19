@@ -22,4 +22,4 @@ Catfisher — это мобильное приложение, позволяющ
 
 ## Установка
 
-Вы можете скачать последнюю версию приложения по следующей ссылке: 
+Вы можете скачать последнюю версию приложения по следующей ссылке: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/PaulVBelo/catfisher/blob/main/apk-release/app-release.apk
